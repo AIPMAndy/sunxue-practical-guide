@@ -1,0 +1,24 @@
+name: 🔎 内容勘误
+description: 指出事实错误、来源不清或链接失效
+title: "[勘误] "
+labels: [correction]
+body:
+  - type: input
+    id: section
+    attributes:
+      label: 对应章节或文件
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: 原文及问题
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 建议修改与原始资料
+      description: 尽量附具体时间戳、公开证据
+    validations:
+      required: true

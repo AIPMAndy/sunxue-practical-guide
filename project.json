@@ -1,0 +1,12 @@
+{
+  "name": "孙学实操攻略",
+  "slug": "sunxue-practical-guide",
+  "version": "2.0.0",
+  "author": "AI 酋长 Andy",
+  "site_entry": "index.html",
+  "article_entry": "article.html",
+  "source": "Sun YuChen × Alan Shao interview",
+  "published": true,
+  "repository": "https://github.com/AIPMAndy/sunxue-practical-guide",
+  "site_url": "https://aipmandy.github.io/sunxue-practical-guide/"
+}
