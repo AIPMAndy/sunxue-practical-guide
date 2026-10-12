@@ -58,3 +58,7 @@ sunxue-practical-guide/
 欢迎提交勘误、补充可复核的公开资料、分享经过匿名处理的实践结果。不要提交他人的简历、联系方式、聊天记录或商业秘密。请先读 [贡献指南](CONTRIBUTING.md)。
 
 [English](README_EN.md) · [引用与事实边界](docs/sources.md) · [五个历史节点](docs/history.md) · [内容与图片 CC BY 4.0](LICENSE-CONTENT.md) · [代码 MIT](LICENSE-CODE)
+
+## 联系作者
+
+求职、职业转型、AI 应用与个人副业等咨询，可联系微信 **AIPMAndy**，或先了解 [Andy 个人官网](https://metaver.vip/)。本攻略持续免费开放，咨询按需选择。
